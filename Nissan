@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Компанія Nissan</title>
+        <link rel="stilsheet" href="style.css">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nissan_headquarters_2022.jpg/1000px-Nissan_headquarters_2022.jpg" width="300px" height="300px"a> Nissan Company Motors
+</head>
+<body>
+    <header>
+        <h1 class>
+
+        </h1>
+ </header>
+ <main>
+    <section class="company">
+        <h1>Компанія знаходиться у Токіо,там знаходиться багато авто  наприклад Nisan GT-R R35 та  Nisan Silvia найпопулярніші в Компанії.Виробники авто є Nissan Motor Company.Датою заснування корпорації вважається 26 грудня 1933 року, коли в результаті злиття компаній «Тобата імоно» та «Ніхон санге» була створена нова компанія, яка з 1 червня 1934 року носить назву «Ніссан мотор» (за першими складами назви компанії «Ніхон санге» - "Японська промисловість"). Найстаріший попередник був заснований в 1911 Масудзіро Насімото, який побудував перший японський автомобіль DAT, наступні моделі називалися Datsun. Перший інтегрований автозавод компанії був побудований в 1935 в Йокогамі за участю американських фахівців[9].</h1>
+        <h2>знизу представлений каталог популярних авто</h2>
+        </section>
+  <section class="catalog">
+    <div>
+    <h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nissan_GT-R_MY2017_%281%29_%28cropped%29.jpg/1920px-Nissan_GT-R_MY2017_%281%29_%28cropped%29.jpg" width="250px" height="150px">Nissan GT-R 35
+        <img src="https://avatars.mds.yandex.net/get-verba/216201/2a00000182a724faf478d6d2ba3e027bbcc9/auto_main" height="150px" width="250px">Nissan 370Z
+        <img src="https://img.classistatic.de/api/v1/mo-prod/images/d6/d6ce1478-346b-4c19-a70f-05a64d93a1eb?rule=mo-640.jpg" height="150px" width="250px">Skyline GT-R R34
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Nissan_Skyline_R33_GT-R_001.jpg" height="150px" width="250px">Nissan Skyline R33 GT-R
+        </div>
+    </section>
+     <section class="popular cars">
+
+         </section>
+        <section class="reviews">
+             </section>
+ </main>
+ <footer>
+
+  </footer>
+ </body>
+</html>

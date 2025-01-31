@@ -21,7 +21,11 @@ header h1 {
     letter-spacing: 2px;
 }
 
-
+.catalog h2 {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
 main {
     padding: 20px;
 }
@@ -35,13 +39,8 @@ main {
 }
 
 
-.catalog {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); 
-    gap: 20px;
-    text-align: center;
-}
 
+/*
 .car {
     background: linear-gradient(to right, #ff416c, #ff4b2b); 
     padding: 15px;
@@ -49,11 +48,33 @@ main {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s ease-in-out;
 }
-
+*/
 .car:hover {
     transform: scale(1.05);
 }
 
+header h1 {
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* Робимо дві картки в ряд */
+.catalog {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.car {
+    width: calc(50% - 20px);
+    text-align: center;
+    background: linear-gradient(to right, #222, #555);
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
 .car h3 {
     font-size: 20px;
     margin: 10px 0;
